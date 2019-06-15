@@ -1,3 +1,3 @@
 # helloworld
-wlecome to git tutorial
+welcome to git tutorial
 done!
